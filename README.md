@@ -123,7 +123,7 @@ MIT License — Free for use, modification, and distribution.
 
 ## 👨‍💻 Credits
 
-Built by [Kuntal], powered by [Astropy](https://www.astropy.org/), [Plotly](https://plotly.com/), and [Streamlit](https://streamlit.io/).
+Built by [helplessThor]  , powered by [Astropy](https://www.astropy.org/), [Plotly](https://plotly.com/), and [Streamlit](https://streamlit.io/).
 
 ---
 
@@ -138,10 +138,5 @@ Built by [Kuntal], powered by [Astropy](https://www.astropy.org/), [Plotly](http
 
 ---
 
-## 🌠 Screenshots
-
-*(Add screenshots/gifs here for visual appeal)*
-
----
 
 **Explore the cosmos — and the wisdom of ancient Indian astronomy — interactively!**
